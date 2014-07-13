@@ -1,7 +1,3 @@
-#Clear workspace
-
-rm(list=ls())
-
 
 ########################## POINT 1
 
