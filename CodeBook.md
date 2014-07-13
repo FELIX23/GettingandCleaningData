@@ -106,3 +106,19 @@ Steps:
 - Write txt with the data set
 
 
+## Output
+
+Two different data set
+
+- First one test_Data according to the following structure
+  Activity_Id ---  Activity_Name --- Subject --- Variables(564 columns) 
+
+- Second one test_Data according to the following structure
+  Activity_Id ---  Activity_Name --- Subject --- Mean of Variables(564 columns) 
+
+Besides, the variables name have been slightly modified to make them more comprensible.
+
+
+
+
+
