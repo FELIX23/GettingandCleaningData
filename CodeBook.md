@@ -100,9 +100,9 @@ Change formats in the column names to make descriptive variable names
 Create a second, independent tidy data set with the average of each variable for each activity and each subject
 
 Steps:
--Deselect Activity Name from Complete_Data
--Aggregate data to summarize the mean values of variables per subject and Activity
--Add the Activity Name to the data set 
+- Deselect Activity Name from Complete_Data
+- Aggregate data to summarize the mean values of variables per subject and Activity
+- Add the Activity Name to the data set 
 - Write txt with the data set
 
 
